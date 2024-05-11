@@ -256,3 +256,14 @@ cursor: not-allowed;
   transform: translate(-50%, -50%);
 }
 
+.level-expert {
+  color: green;
+}
+
+.level-good {
+  color: darkorange;
+}
+
+.level-bad {
+  color: red;
+}
